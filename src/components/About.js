@@ -1,4 +1,6 @@
 import React from "react";
+import {image} from "/home/brian/Development/code/Phase2/react-hooks-import-export-lab/src/data/user.js";
+
 
 function About() {
   return (
@@ -9,3 +11,5 @@ function About() {
     </div>
   );
 }
+
+export default About
